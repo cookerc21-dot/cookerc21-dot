@@ -20,6 +20,9 @@ Dex banners and coin visuals for pump.fun / Solana teams:
 | $NORMIE — Pixar-style mascot refresh | [banner](https://raw.githubusercontent.com/cookerc21-dot/assets/main/normie_banner_preview.jpg) |
 | $SI — Super Intelligence, community CTO | [banner](https://raw.githubusercontent.com/cookerc21-dot/assets/main/si_banner_post.jpg) |
 | memetuber — AI streamer platform for coins | [banner](https://raw.githubusercontent.com/cookerc21-dot/assets/main/memetuber_banner_post.jpg) |
+| $PEPPER — rescue raccoon on the run | [banner](https://raw.githubusercontent.com/cookerc21-dot/assets/main/pepper_banner_preview.jpg) |
+| $KEK — the word of the trenches | [banner](https://raw.githubusercontent.com/cookerc21-dot/assets/main/kek_banner_preview.jpg) |
+| $KAMPE — We dey, liq locked till 2282 | [banner](https://raw.githubusercontent.com/cookerc21-dot/assets/main/kampe_banner_preview.jpg) |
 
 More work lands in the [assets repo](https://github.com/cookerc21-dot/assets).
 
