@@ -9,7 +9,8 @@ Dex banners and coin visuals for pump.fun / Solana teams:
 
 - **Dex + X banners** — the first thing buyers see on DexScreener
 - **Fast turnaround** — free preview, full-res on your terms
-- **DMs open on X** — tell me your coin, get a concept back
+- **Order in 30 seconds** — [cookerc21-dot.github.io](https://cookerc21-dot.github.io) (spec form, one click)
+- **DMs open on X** — tell me your coin, get a concept back. Or just mention @aikitapp in a post
 
 ## Portfolio
 
