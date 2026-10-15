@@ -18,6 +18,8 @@ Dex banners and coin visuals for pump.fun / Solana teams:
 | $SPENDY — Visa card for your FOMO balance | [banner](https://raw.githubusercontent.com/cookerc21-dot/assets/main/spendy_banner_post.jpg) |
 | $LION — The Lion, orange cat, big mane | [banner](https://raw.githubusercontent.com/cookerc21-dot/assets/main/lion_banner_post.jpg) |
 | $NORMIE — Pixar-style mascot refresh | [banner](https://raw.githubusercontent.com/cookerc21-dot/assets/main/normie_banner_preview.jpg) |
+| $SI — Super Intelligence, community CTO | [banner](https://raw.githubusercontent.com/cookerc21-dot/assets/main/si_banner_post.jpg) |
+| memetuber — AI streamer platform for coins | [banner](https://raw.githubusercontent.com/cookerc21-dot/assets/main/memetuber_banner_post.jpg) |
 
 More work lands in the [assets repo](https://github.com/cookerc21-dot/assets).
 
